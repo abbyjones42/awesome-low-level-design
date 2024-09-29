@@ -11,6 +11,7 @@ package com.mycompany.forkedproject;
 public class ForkedProject {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("My name is Abigail, and this is my first attempt at"
+                + " forking a repository using GitHub and Netbeans together.");
     }
 }
